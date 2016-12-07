@@ -1,5 +1,5 @@
 import java.io.*;  
-class SumWithoutPlus
+public class SumWithoutPlus
 {  
 	public static void main(String args[])throws Exception
 	{  
